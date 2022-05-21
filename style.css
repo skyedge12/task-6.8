@@ -1,0 +1,17 @@
+body {
+    background-color: antiquewhite;
+}
+
+ul {
+    font-size: 30px;
+    color: rgb(86, 167, 54);
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 30px;
+}
+
+
+a {
+    color: rgb(133, 52, 108);
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
